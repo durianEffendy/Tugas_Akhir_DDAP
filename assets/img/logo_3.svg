@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="150" viewBox="0 0 450 150">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 288.646px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #424242;
+        text-anchor: middle;
+        font-family: Coolvetica;
+      }
+
+      .cls-2 {
+        font-size: 250px;
+      }
+    </style>
+  </defs>
+  <image id="Layer_0" data-name="Layer 0" width="450" height="150" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAACWCAYAAABNcIgQAAACT0lEQVR4nO3VQQHAQBCEsG39e54TQmKBB9+2HQBE/cIDUGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhECkGaEAKQZIQBpRghAmhEC0HV3Dx4gBSiNLKddAAAAAElFTkSuQmCC"/>
+  <text id="Wallet" class="cls-1" transform="translate(285.681 110.269) scale(0.368)"><tspan x="0">Wallet</tspan></text>
+  <text id="My" class="cls-2" transform="translate(61.507 109.844) scale(0.425)"><tspan x="0">My</tspan></text>
+</svg>
