@@ -1,0 +1,143 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+header{
+  width: 100%;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+
+  font-size: 16px;
+  align-items: center;
+
+}
+
+.inner_header{
+  width: 86%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo_nav{
+  display: flex;
+  align-items: center;
+  width: 70%;
+}
+
+.logo{
+  width: 190px;
+  margin-right: 10px;
+}
+
+a{
+  color: #000000;
+}
+
+a:hover{
+  color: #564779;
+}
+
+.nav_links{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+
+}
+
+.btn_field{
+  width: 18.5%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.btn_field button{
+  font-size: 16px;
+  width: 110px;
+  height: 43px;
+  border-radius: 10px;
+}
+
+.btn_Masuk{
+  background-color: white;
+  border: 1px solid;
+  border-color: #9D6C82;
+}
+
+.btn_Daftar{
+  font-weight: 700;
+  border: none;
+  color: white;
+  background: linear-gradient(180deg,
+    rgba(86, 71, 121, 0.5) 0%,
+    rgba(86, 71, 121, 0) 100%),
+    rgba(216, 146, 141, 0.8);
+  margin-left: 15px;
+}
+
+.firstLanding{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 40px 0px;
+}
+
+.content{
+  width: 86%;
+  display: flex;
+  height: 470px;
+  justify-content: space-between;
+}
+
+.gambar{
+  width: 50%;
+  object-fit:cover;
+}
+
+.teks_kiri{
+  padding-top: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content:  space-evenly;
+  width: 35%;
+  height: 80%;
+}
+
+.subjudul{
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.tambahan{
+  display: flex;
+  flex-direction: column;
+  justify-content:  space-between;
+  height: 60%;
+}
+
+.teks{
+  text-align: justify;
+}
+
+.button{
+  font-size: 16px;
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  background:
+    linear-gradient(180deg, #9D6C82 0%,
+    rgba(86, 71, 121, 0) 100%),
+    #564779;
+  border-radius: 20px;
+  font-weight: 700;
+  border: none;
+  color: white;
+}
